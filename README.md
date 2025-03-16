@@ -242,7 +242,7 @@ Below is a simplified workflow:
 
 - [Docker Documentation](https://docs.docker.com/)
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- [OWASP ZAP](https://owasp.org/www-project-zap/)
+- [OWASP ZAP](https://owasp.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Nginx SSL/TLS](https://docs.nginx.com/nginx/admin-guide/security-controls/terminating-ssl-http/)
 - [React Official Docs](https://reactjs.org/docs/getting-started.html)
